@@ -17,3 +17,19 @@ git clone https://github.com/yourusername/mojito-awards.git
 cd mojito-awards
 npm install
 npm run dev
+
+Visit https://mojito-awwards-dvte.vercel.app/ to view the application.
+
+🛠 Built With
+
+• Next.js: A React framework for building static and dynamic websites.
+
+• Tailwind CSS: A utility-first CSS framework for rapid UI development.
+
+• Vercel: Deployment platform for frontend frameworks and static sites.
+
+📧 Contact
+
+For inquiries or feedback, reach out to:
+• Email:mp4297965@gmail.com
+• Live website-link:https://mojito-awwards-dvte.vercel.app/
