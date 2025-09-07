@@ -13,7 +13,7 @@ Welcome to the Mojito Awards — a dynamic platform celebrating the finest cockt
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/mojito-awards.git
+git clone https://github.com/meetpatel2511/mojito-awards.git
 cd mojito-awards
 npm install
 npm run dev
